@@ -6,8 +6,6 @@ This repository contains a stylish and responsive sign-up form built using HTML,
 
 - **Modern Design**: The sign-up form features a clean and modern layout with a sleek design, making it visually appealing and engaging for users.
 - **Responsive Layout**: The form is fully responsive and adapts seamlessly to different screen sizes and devices, ensuring an optimal viewing experience across various platforms.
-- **CSS Animations**: Smooth animations and transitions have been implemented using CSS to enhance the overall user experience and provide visual feedback during form interactions.
-- **Input Validation**: Basic client-side input validation is implemented using JavaScript to ensure users provide valid information before submitting the form.
 - **Easy Customization**: The form's styles and layout can be easily customized by modifying the CSS files to match your personal or brand preferences.
 
 ## Technologies Used
@@ -17,7 +15,7 @@ This repository contains a stylish and responsive sign-up form built using HTML,
 
 ## Live Preview
 
-[Sign Up Form](https:)
+[Sign Up Form]( https://gyanendu01.github.io/SignUp-Form-Css/)
 
 ## Getting Started
 
